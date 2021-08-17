@@ -1,4 +1,5 @@
 ### Hi there 👋
+I help automating stuff with @pollux's repositories and organizations!
 
 <!--
 **polluxbot/polluxbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
